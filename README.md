@@ -73,7 +73,7 @@ jupyter nbconvert --to notebook --inplace --execute Task2_Part3.ipynb
 ```
 ## Result
 Here are the evaluation scores on different splits using [green score.](https://stanford-aimi.github.io/green.html) 
-| **Data Split** | **Lung** | ** Heart** | **Mediastinal** | **Bone** |
+| **Data Split** | **Lung** | **Heart** | **Mediastinal** | **Bone** |
 |:--------------:|:--------:|:----------:|:---------------:|:--------:|
 |   Validation   |      0.3 |        0.4 |             0.4 |        0 |
 |     Testing    |     0.45 |       0.44 |             0.6 |        0 |
